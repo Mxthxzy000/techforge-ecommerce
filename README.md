@@ -1,9 +1,8 @@
-
 # TechForge – E-commerce de Tecnologia
 
 **Projeto educacional (SENAI 2024)** que simula um **e-commerce de hardware e tecnologia**, inspirado em lojas como Kabum e Terabyte, com visual gamer.
 
-⚠️ **Projeto fictício**: não realiza vendas reais e não possui transações comerciais.
+**Projeto fictício**: não realiza vendas reais e não possui transações comerciais.
 
 ---
 
@@ -63,7 +62,7 @@
 
 # Estrutura do projeto (resumida)
 
-TechForge/
+```nTechForge/
 ├── Home/
 ├── Catalogo/
 ├── Carrinho/
@@ -78,6 +77,7 @@ TechForge/
 ├── config.php
 ├── session.php
 └── techforge_db.sql
+```
 
 ---
 
